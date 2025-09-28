@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-[![GalaxyCacti’s github stats](https://github-readme-stats.vercel.app/api?username=galaxycacti)](https://github.com/galaxycacti)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxycacti&layout=compact)](https://github.com/galaxycacti)
 
 <!--
 
 **galaxycacti/galaxycacti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![GalaxyCacti’s github stats](https://github-readme-stats.vercel.app/api?username=galaxycacti)](https://github.com/galaxycacti)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxycacti&layout=compact)](https://github.com/galaxycacti)
 
 Here are some ideas to get you started:
 
