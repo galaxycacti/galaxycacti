@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+![meme](https://github.com/user-attachments/assets/7c671cac-902d-4171-ad87-8769a8e515a7)
+
 <!--
+
 **galaxycacti/galaxycacti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
