@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+[![GalaxyCacti’s github stats](https://github-readme-stats.vercel.app/api?username=galaxycacti)](https://github.com/galaxycacti)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxycacti&layout=compact)](https://github.com/galaxycacti)
 
 <!--
 
